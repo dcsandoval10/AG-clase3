@@ -130,7 +130,7 @@ listar.addEventListener('click',e => {
         })
     }
 
-
+console.log("Bienvenido")
 
     
 })
